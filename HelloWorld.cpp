@@ -2,6 +2,6 @@
 
 int main() {
 
-  std::cout << "FightOn!" << std:endl;
+  std::cout << "FightOne!" << std:endl;
 
 }
